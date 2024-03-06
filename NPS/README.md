@@ -5,6 +5,7 @@
 ### Описание проекта
 После подключения к базе данных SQLite и сбора в одну витрину данных из разных таблиц, был сделан [дашборд](https://public.tableau.com/app/profile/kristina2465/viz/__16760144028600/Dashboard5).      
 Выводы и рекомендации были оформлены в виде [презентации](https://disk.yandex.ru/i/JHlFL26Py6GPXA).
+![](https://github.com/KristinaChu/picture/blob/main/voronka_a.png?raw=true)
 ### Используемые библиотеки
 `sqlalchemy`, `pandas`
 

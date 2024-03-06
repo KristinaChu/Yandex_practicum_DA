@@ -9,5 +9,5 @@
 ![](https://github.com/KristinaChu/picture/blob/main/NPS_DASH.jpg)
 
 ### Используемые библиотеки
-`sqlalchemy`, `pandas`
+`sqlalchemy`, `pandas` 
 
